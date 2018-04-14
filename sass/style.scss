@@ -1,0 +1,78 @@
+// colours
+$middle-blue-green: #80D1CC;
+$persian-green: #00A9A9;
+$snow: #FFFAF9;
+$white-smoke: #F6F6F6;
+$dark-jungle-green: #1A2126;
+
+// fonts
+$ibm-plex-mono: 'IBM Plex Mono', monospace;
+$josefin-sans: 'Josefin Sans', sans-serif;
+$old-standard-tt: 'Old Standard TT', serif;
+
+// body styles
+body {
+  background: $snow;
+}
+
+// navbar
+nav.navbar {
+  background: $white-smoke;
+  font-family: $ibm-plex-mono;
+  font-size: 1.25em;
+  -webkit-box-shadow: 0px 13px 35px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 13px 35px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 13px 35px 0px rgba(0,0,0,0.75);
+}
+
+.front {
+  height: 45em;
+}
+
+.sotomun-logo {
+  margin: 3em auto;
+  display: block;
+  width: 24em;
+}
+
+.intro-text {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: $josefin-sans;
+  color: $dark-jungle-green;
+  margin-top: 1.5em;
+  font-size: 2.441em;
+}
+
+
+
+.main {
+  background: $dark-jungle-green;
+  width: 100%;
+  height: 52em;
+  color: $snow;
+}
+
+.main p{
+  font-size: 1em;
+  line-height: 2em;
+  padding-top: 3em;
+}
+
+.main p+p {
+  text-indent: 2.4em;
+}
+
+.illumination {
+  font-size: 4em;
+  padding: .5px 8px;
+  margin-right: 4px;
+}
+
+.main h2 {
+  font-family: $old-standard-tt;
+  color: $middle-blue-green;
+  padding-top: 2.5em;
+  font-size: 1.953em;
+  text-transform: uppercase;
+}
