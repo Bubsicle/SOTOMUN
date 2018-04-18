@@ -24,14 +24,37 @@
       <li class="nav-item">
         <a class="nav-link" href="index.php">Home</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="info.php">Info</a>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          About us
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="aboutmun.php">About MUN</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="aboutschool.php">About our school</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">About Sotogrande</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">About Estepona</a>
+        </div>
       </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Conference
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">General Information</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">SG's Welcome</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Participants</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="issues.php">Committees &amp; Issues</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Rules of Procedure</a>
+        </div>
       <li class="nav-item">
         <a class="nav-link" href="registration.php">Registration</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="conference.php">Conference</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="schedule.php">Schedule</a>

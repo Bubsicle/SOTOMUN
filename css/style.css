@@ -1,3 +1,6 @@
+html {
+  font-size: 1.25em; }
+
 body {
   background: #FFFAF9; }
 
@@ -25,11 +28,31 @@ nav.navbar {
   margin-top: 1.5em;
   font-size: 2.441em; }
 
+.main-nobg {
+  width: 100%;
+  font-family: "Josefin Sans", sans-serif; }
+
+.main-nobg h2 {
+  font-family: "Old Standard TT", serif;
+  color: #1A2126;
+  padding-top: 2.5em;
+  font-size: 1.953em;
+  text-transform: uppercase; }
+
+.main-nobg p {
+  font-size: 1em;
+  line-height: 2em;
+  padding-top: 3em; }
+
+.main-nobg p + p {
+  text-indent: 2.4em; }
+
 .main {
   background: #1A2126;
   width: 100%;
-  height: 52em;
-  color: #FFFAF9; }
+  color: #FFFAF9;
+  padding-bottom: 100px;
+  font-family: "Josefin Sans", sans-serif; }
 
 .main p {
   font-size: 1em;

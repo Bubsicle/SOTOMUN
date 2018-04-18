@@ -1,3 +1,7 @@
+html {
+  font-size: 1.25em;
+}
+
 // colours
 $middle-blue-green: #80D1CC;
 $persian-green: #00A9A9;
@@ -44,13 +48,35 @@ nav.navbar {
   font-size: 2.441em;
 }
 
+.main-nobg {
+  width: 100%;
+  font-family: $josefin-sans;
+}
 
+.main-nobg h2 {
+  font-family: $old-standard-tt;
+  color: $dark-jungle-green;
+  padding-top: 2.5em;
+  font-size: 1.953em;
+  text-transform: uppercase;
+}
+
+.main-nobg p {
+  font-size: 1em;
+  line-height: 2em;
+  padding-top: 3em;
+}
+
+.main-nobg p+p {
+  text-indent: 2.4em;
+}
 
 .main {
   background: $dark-jungle-green;
   width: 100%;
-  height: 52em;
   color: $snow;
+  padding-bottom: 100px;
+  font-family: $josefin-sans;
 }
 
 .main p{
