@@ -60,7 +60,7 @@
         <a class="nav-link" href="schedule.php">Schedule</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Team</a>
+        <a class="nav-link" href="team.php">Team</a>
       </li>
     </ul>
   </div>
