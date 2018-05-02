@@ -117,7 +117,6 @@
       </div>
     </div>
   </div>
-
   <div class="column">
     <div class="card-n">
       <img src="assets/team/Lr-13.jpg" alt="Jane" style="width:100%">
@@ -156,5 +155,19 @@
       </div>
     </div>
   </div>
+
+  <div class="column">
+    <div class="card-n">
+      <img src="assets/team/Lr-20.jpg" alt="Jane" style="width:100%">
+      <div class="container-n">
+        <h2>Lorem ipsum</h2>
+
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+
+
+      </div>
+    </div>
+  </div>
+
 </div>
 <?php include("inc/footer.php")?>
