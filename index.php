@@ -1,3 +1,4 @@
+<?php $page = "Home";?>
 <?php include("inc/nav.php")?>
 <div class="container">
   <div class="front">

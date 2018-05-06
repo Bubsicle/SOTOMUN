@@ -1,3 +1,4 @@
+<?php $page = "Registration";?>
 <?php include("inc/nav.php")?>
 <div class="main-nobg">
   <div class="container">

@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,500|Josefin+Sans:400,700|Old+Standard+TT:400,700" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
 
-    <title>SOTOMUN</title>
+    <title><?php echo 'SOTOMUN | ' . $page ?></title>
   </head>
   <body>
     <nav class="navbar sticky-top navbar-expand-lg navbar-light">

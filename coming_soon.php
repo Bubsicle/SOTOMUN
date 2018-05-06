@@ -1,3 +1,4 @@
+<?php $page = "Coming Soon";?>
 <?php include("inc/nav.php")?>
 <div class="container">
   <center><h1 class="mt-4" >Coming Soon</h1>

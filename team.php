@@ -1,3 +1,4 @@
+<?php $page = "Team";?>
 <?php include("inc/nav.php")?>
 <div class="container">
   <div class="card-deck mt-4">
