@@ -20,14 +20,31 @@ body {
   background: $snow;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: $old-standard-tt;
+}
+
+.card-text {
+  font-family: $josefin-sans
+}
+
 // navbar
 nav.navbar {
   background: $white-smoke;
   font-family: $ibm-plex-mono;
+  font-weight: 500;
   font-size: 1.25em;
   -webkit-box-shadow: 0px 13px 35px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 0px 13px 35px 0px rgba(0,0,0,0.75);
   box-shadow: 0px 13px 35px 0px rgba(0,0,0,0.75);
+}
+
+.nav-logo {
+  width: 140px;
+}
+
+.sotomun-nav-logo {
+  width: 75px;
 }
 
 .front {
@@ -38,6 +55,9 @@ nav.navbar {
   margin: 3em auto;
   display: block;
   width: 24em;
+  @media(max-width: 751px) {
+    width: 100%;
+  }
 }
 
 .intro-text {
@@ -47,6 +67,9 @@ nav.navbar {
   color: $dark-jungle-green;
   margin-top: 1.5em;
   font-size: 2.441em;
+  @media(max-width: 751px) {
+    font-size: 1.563em;
+  }
 }
 
 .main-nobg {
@@ -108,42 +131,28 @@ nav.navbar {
   text-transform: uppercase;
 }
 
-*, *:before, *:after {
-  box-sizing: inherit;
-}
-
-.column {
-  float: left;
-  width: 33.3%;
-  margin-bottom: 16px;
-  padding: 0 8px;
-}
-
-@media screen and (max-width: 650px) {
-  .column {
-    width: 100%;
-    display: block;
+.main-nobg h2, .main h2 {
+  @media(max-width: 751px) {
+    font-size: 1.25em;
   }
 }
 
-.card-n {
-  img {
-    border-radius: 100%;
+.main-nobg h3, .main h3 {
+  @media(max-width: 751px) {
+    font-size: 1em;
   }
 }
 
-.container-n {
-  padding: 0 16px;
+.main-nobg ul, .main ul {
+  @media(max-width: 751px) {
+    font-size: 0.8em;
+  }
 }
 
-.container-n::after, .row-n::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.title {
-  color: grey;
+.main-nobg p, .main p {
+  @media(max-width: 751px) {
+    font-size: 0.8em;
+  }
 }
 
 .download {
@@ -179,7 +188,7 @@ nav.navbar {
   &:nth-of-type(2) {
     margin-left: 2em;
   }
-  @media (max-width: 476px) {
+  @media (max-width: 751px) {
     &:nth-of-type(2) {
       margin-left: 0;
     }
