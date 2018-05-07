@@ -1,6 +1,6 @@
 <?php include("inc/nav.php")?>
 <div class="main-nobg letter">
-  <div class="container mt-4">
+  <div class="container mt-4 mb-5">
     <p>Dear Guest,</p>
     <p>It is our pleasure to invite you and your school to participate in our international MUN conference to be held in
       our school in Sotogrande, a vast estate located on the Mediterranean coast of southern Spain. Please see
@@ -40,7 +40,7 @@
     </div>
 
     <div class="mt-5 main-nobg letter">
-      <div class="container">
+      <div class="container mb-5">
         <h2 class="mt-4">Travel, accommodation &amp; transport logistics</h2>
         <p>Sotogrande is some 90 kilometers west of Malaga airport and 20 kilometers east of Gibraltar airport.
           It may be possible for us to arrange for you to be collected at airport &#40;small additional charge&#41; once we know
@@ -60,9 +60,8 @@
 
           <div class="main">
             <div class="container">
-
               <h2>Registration &amp; Fees</h2>
-              <p>Registration forms can now be downloaded from our website. The cost of the conference is 70€ per person
+              <p class="pt-1">Registration forms can now be downloaded from our website. The cost of the conference is 70€ per person
                 for both delegates and MUN directors. This will cover coach transport as previously stated, admission to the
                 conference and party, ID badge &amp; other conference stationery, four lunches, a certificate of participation and
                 other supplies.

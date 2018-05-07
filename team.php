@@ -30,7 +30,7 @@
   <img class="card-img-top" src="assets/team/othmanmouhajir.jpg" alt="Picture of Othman Mouhajir">
   <div class="card-body">
     <h5 class="card-title">Othman Mouhajir​​</h5>
-    <p class="card-text">Deputy Secreatry General</p>
+    <p class="card-text">Deputy Secretary General</p>
   </div>
 </div>
 <div class="card">
