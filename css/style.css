@@ -113,6 +113,11 @@ nav.navbar {
   .main-nobg p, .main p {
     font-size: 0.8em; } }
 
+.letter p, .letter h1, .letter h2, .letter h3, .letter h4, .letter h5, .letter h6 {
+  padding-top: 0; }
+.letter p + p {
+  text-indent: 0; }
+
 .download {
   position: relative;
   transition-duration: .6s;
@@ -144,5 +149,8 @@ nav.navbar {
   @media (max-width: 751px) {
     .download:nth-of-type(2) {
       margin-left: 0; } }
+
+.card-body {
+  padding: 23px; }
 
 /*# sourceMappingURL=style.css.map */

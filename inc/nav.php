@@ -44,7 +44,7 @@
           Conference
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="coming_soon.php">General Information</a>
+          <a class="dropdown-item" href="conference.php">General Information</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="coming_soon.php">SG's Welcome</a>
           <div class="dropdown-divider"></div>

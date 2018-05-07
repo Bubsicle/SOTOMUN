@@ -65,7 +65,7 @@
 
 <div class="card-deck mt-4">
 <div class="card">
-  <img class="card-img-top" src="http://via.placeholder.com/2880x4320" alt="Picture of Paloma Jaudel">
+  <img class="card-img-top" src="assets/team/paloma.jpg" alt="Picture of Paloma Jaudel">
   <div class="card-body">
     <h5 class="card-title">Paloma Jaudel</h5>
   </div>
@@ -102,8 +102,14 @@
   <div class="card">
     <img class="card-img-top" src="http://via.placeholder.com/2880x4320" alt="Picture of Kate Hobins">
     <div class="card-body">
-      <h5 class="card-title">Kate Hobins​​</h5>
+      <h5 class="card-title">Katie Holmes​​</h5>
       <p class="card-text">Ceremony Organiser</p>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="http://via.placeholder.com/2880x4320" alt="Picture of Ebba Larsson">
+    <div class="card-body">
+      <h5 class="card-title">Ebba Larsson​​</h5>
     </div>
   </div>
   </div>
