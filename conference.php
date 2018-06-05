@@ -1,3 +1,4 @@
+<?php $page = "General Information";?>
 <?php include("inc/nav.php")?>
 <div class="main-nobg letter">
   <div class="container mt-4 mb-5">

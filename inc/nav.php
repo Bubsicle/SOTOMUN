@@ -53,7 +53,7 @@
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="issues.php">Committees &amp; Issues</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="coming_soon.php">Rules of Procedure</a>
+          <a class="dropdown-item" href="rules_procedure.php">Rules of Procedure</a>
         </div>
       <li class="nav-item">
         <a class="nav-link" href="registration.php">Registration</a>

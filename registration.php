@@ -20,10 +20,10 @@ If you have any questions at this stage, please email <a href="mailto:sotomun@si
 <div class="main">
   <div class="container">
     <h2>Downloads</h2>
-    <div class="download" onclick="location.href='assets/registration/RegistrationPart1.docx';">
+    <div class="download">
       <a href="assets/registration/RegistrationPart1.docx" download>Registration Part 1 <i class="fas fa-download"></i></a>
     </div>
-    <div class="download" onclick="location.href='assets/registration/RegistrationPart2.docx';">
+    <div class="download">
       <a href="assets/registration/RegistrationPart2.docx" download>Registration Part 2 <i class="fas fa-download"></i></a>
     </div>
   </div>

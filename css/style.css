@@ -125,17 +125,16 @@ nav.navbar {
   margin-top: 2em;
   color: #1A2126;
   background-color: #F6F6F6;
-  border-radius: 10px;
-  padding: .8em; }
+  border-radius: 10px; }
   .download a {
     padding: 1em;
     padding-left: 2em;
     padding-right: 2em;
     text-decoration: none;
-    width: 100%;
+    left: 0;
+    display: block;
     height: 100%;
-    top: 0;
-    left: 0; }
+    width: 100%; }
   .download:hover {
     background-color: #00A9A9;
     cursor: hand;
@@ -149,6 +148,15 @@ nav.navbar {
   @media (max-width: 751px) {
     .download:nth-of-type(2) {
       margin-left: 0; } }
+
+.main-nobg .download {
+  background-color: #1A2126; }
+  .main-nobg .download a {
+    color: #F6F6F6; }
+  .main-nobg .download:hover {
+    background-color: #80D1CC; }
+    .main-nobg .download:hover a {
+      color: #1A2126; }
 
 .card-body {
   padding: 23px; }
