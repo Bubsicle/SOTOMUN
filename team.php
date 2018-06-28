@@ -101,7 +101,7 @@
       </div>
     </div>
   </div>
-  <div class="card-deck">
+  <div class="card-deck mt-4">
   <div class="card">
     <img class="card-img-top" src="assets/team/oliverhoad.jpg" alt="Picture of Oliver Hoad">
     <div class="card-body">
