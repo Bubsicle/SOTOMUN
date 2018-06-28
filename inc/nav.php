@@ -34,10 +34,6 @@
           <a class="dropdown-item" href="aboutmun.php">About MUN</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="aboutschool.php">About our school</a>
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="coming_soon.php">About Sotogrande</a>
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="coming_soon.php">About Estepona</a>
         </div>
       </li>
       <li class="nav-item dropdown">
@@ -47,7 +43,7 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="conference.php">General Information</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="coming_soon.php">SG's Welcome</a>
+          <a class="dropdown-item" href="coming_soon.php">Sponsors</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="coming_soon.php">Participants</a>
           <div class="dropdown-divider"></div>
