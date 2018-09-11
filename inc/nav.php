@@ -43,9 +43,9 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="conference.php">General Information</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="coming_soon.php">Sponsors</a>
+          <a class="dropdown-item" href="sponsors.php">Sponsors</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="coming_soon.php">Participants</a>
+          <a class="dropdown-item" href="participants.php">Participants</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="issues.php">Committees &amp; Issues</a>
           <div class="dropdown-divider"></div>
@@ -55,7 +55,7 @@
         <a class="nav-link" href="registration.php">Registration</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="coming_soon.php">Schedule</a>
+        <a class="nav-link" href="schedule.php">Schedule</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="team.php">Team</a>
