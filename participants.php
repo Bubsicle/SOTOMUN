@@ -1,4 +1,4 @@
-<?php $page = "Sponsors";?>
+<?php $page = "Participants";?>
 <?php include("inc/nav.php")?>
 <div class="main-nobg">
   <div class="container">
