@@ -37,6 +37,11 @@ nav.navbar {
   -webkit-box-shadow: 0px 13px 35px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 0px 13px 35px 0px rgba(0,0,0,0.75);
   box-shadow: 0px 13px 35px 0px rgba(0,0,0,0.75);
+  @media (max-width: 1134px) {
+    &{
+      font-size: 1em;
+    }
+  }
 }
 
 .nav-logo {
@@ -44,7 +49,7 @@ nav.navbar {
 }
 
 .sotomun-nav-logo {
-  width: 75px;
+  width: 56px;
 }
 
 .front {
@@ -54,7 +59,7 @@ nav.navbar {
 .sotomun-logo {
   margin: 3em auto;
   display: block;
-  width: 24em;
+  width: 20em;
   @media(max-width: 751px) {
     width: 100%;
   }
@@ -253,11 +258,15 @@ hr.elegant {
 }
 
 .sponsors img {
-  background-color: #1A2126;
-  padding: 6px;
-  border-radius: 25px;
+  border-radius: 5px;
   width: 340px;
   height: 300px;
+  @media (max-width: 1194px) {
+    & {
+      width: 260px;
+      height: 260px;
+    }
+  }
 }
 
 hr.elegant:before { /* Not really supposed to work, but does */
