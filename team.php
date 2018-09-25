@@ -87,7 +87,7 @@
 <h2 class="mt-4">Administrative Team</h2>
   <div class="card-deck">
     <div class="card">
-      <img class="card-img-top" src="http://via.placeholder.com/2880x4320" alt="Picture of Emeka Okonkwo">
+      <img class="card-img-top" src="assets/team/enola.jpg" alt="Picture of Emeka Okonkwo">
       <div class="card-body">
         <h5 class="card-title">Enola Gavira​​</h5>
         <p class="card-text">Sponsor Liason</p>
@@ -117,7 +117,7 @@
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="http://via.placeholder.com/2880x4320" alt="Picture of Ebba Larsson">
+    <img class="card-img-top" src="assets/team/ebba.jpg" alt="Picture of Ebba Larsson">
     <div class="card-body">
       <h5 class="card-title">Ebba Larsson​​</h5>
       <p class="card-text">Registration Desk</p>
