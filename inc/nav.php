@@ -33,7 +33,7 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="aboutmun.php">About MUN</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="aboutschool.php">About our school</a>
+          <a class="dropdown-item" href="coming_soon.php">About our school</a>
         </div>
       </li>
       <li class="nav-item dropdown">
@@ -43,22 +43,22 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="conference.php">General Information</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="sponsors.php">Sponsors</a>
+          <a class="dropdown-item" href="coming_soon.php">Sponsors</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="participants.php">Participants</a>
+          <a class="dropdown-item" href="coming_soon.php">Participants</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="issues.php">Committees &amp; Issues</a>
+          <a class="dropdown-item" href="coming_soon.php">Committees &amp; Issues</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="rules_procedure.php">Rules of Procedure</a>
+          <a class="dropdown-item" href="coming_soon.php">Rules of Procedure</a>
         </div>
       <li class="nav-item">
-        <a class="nav-link" href="registration.php">Registration</a>
+        <a class="nav-link" href="coming_soon.php">Registration</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="schedule.php">Schedule</a>
+        <a class="nav-link" href="coming_soon.php">Schedule</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="team.php">Team</a>
+        <a class="nav-link" href="coming_soon.php">Team</a>
       </li>
     </ul>
     <img class="sotomun-nav-logo ml-auto" src="assets/sotomun.png">
