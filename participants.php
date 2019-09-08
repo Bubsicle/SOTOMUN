@@ -5,10 +5,10 @@
     <h2>Participants</h2>
     <ul>
       <li><h4>Aloha College</h4></li>
-      <li><h4>St. George International School of Malaga</h4></li>
-      <li><h4>Laude San Pedro International College</h4></li>
+      <li><h4>Fulham School</h4></li>
+      <li><h4>International School of Monza</h4></li>
       <li><h4>Sotogrande International School</h4></li>
-      <li><h4>Swans International School</h4></li>
+      <li><h4>Swans International School Sierra Blanca</h4></li>
     </ul>
   </div>
 </div>

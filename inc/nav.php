@@ -42,8 +42,8 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="conference.php">General Information</a>
           <a class="dropdown-item" href="accommodation.php">Hotels</a>
-          <a class="dropdown-item" href="coming_soon.php">Sponsors</a>
-          <a class="dropdown-item" href="coming_soon.php">Participants</a>
+          <a class="dropdown-item" href="sponsors.php">Sponsors</a>
+          <a class="dropdown-item" href="participants.php">Participants</a>
           <a class="dropdown-item" href="issues.php">Committees &amp; Issues</a>
           <a class="dropdown-item" href="rules_procedure.php">Rules of Procedure</a>
         </div>
@@ -54,7 +54,7 @@
         <a class="nav-link" href="schedule.php">Schedule</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="coming_soon.php">Team</a>
+        <a class="nav-link" href="team.php">Team</a>
       </li>
     </ul>
     <img class="sotomun-nav-logo ml-auto" src="assets/sotomun.png">
