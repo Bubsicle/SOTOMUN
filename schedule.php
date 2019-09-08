@@ -3,7 +3,7 @@
 <div class="main&#45;nobg">
   <div class="container">
     <h2>Schedule</h2>
-    <h3>Thursday</h3>
+    <h3>Thursday 26 September</h3>
     <table>
       <col width="130">
       <tr class="highlight">
@@ -23,20 +23,20 @@
         <td>Break in Chiringuito</td>
       </tr>
       <tr>
-        <td>11&#58;50 &#45; 13&#58;40</td>
-        <td>Committees in session &#40;Committee rooms P17, P21 & P23&#41;</td>
+        <td>11&#58;50 &#45; 14&#58;00</td>
+        <td>Committees in session</td>
       </tr>
       <tr>
-        <td>13&#58;40 &#45; 14&#58;15</td>
+        <td>14&#58;00 &#45; 14&#58;40</td>
         <td>Lunch in Cantina</td>
       </tr>
       <tr>
-        <td>14&#58;15 &#45; 16&#58;30</td>
+        <td>14&#58;40 &#45; 17&#58;00</td>
         <td>Committees in session</td>
       </tr>
     </table>
 
-    <h3>Friday</h3>
+    <h3>Friday 27 September</h3>
     <table>
       <col width="130">
       <tr class="highlight">
@@ -44,28 +44,28 @@
         <th>Event</th>
       </tr>
       <tr>
-        <td>09&#58;30 &#45; 11&#58;20</td>
+        <td>10&#58;00 &#45; 11&#58;50</td>
         <td>Committees in session</td>
       </tr>
       <tr>
-        <td>11&#58;20 &#45; 11&#58;40</td>
+        <td>11&#58;50 &#45; 12&#58;10</td>
         <td>Break in Chiringuito</td>
       </tr>
       <tr>
-        <td>11&#58;40 &#45; 13&#58;30</td>
+        <td>12&#58;10 &#45; 14&#58;00</td>
         <td>Committees in session</td>
       </tr>
       <tr>
-        <td>13&#58;30 &#45; 14&#58;10</td>
+        <td>14&#58;00 &#45; 14&#58;40</td>
         <td>Lunch in Cantina</td>
       </tr>
       <tr>
-        <td>14&#58;10 &#45; 15&#58;45</td>
+        <td>14&#58;40 &#45; 17&#58;00</td>
         <td>Committees in session</td>
       </tr>
     </table>
 
-    <h3>Saturday</h3>
+    <h3>Saturday 28 September</h3>
     <table>
       <col width="130">
       <tr class="highlight">
@@ -73,7 +73,7 @@
         <th>Event</th>
       </tr>
       <tr>
-        <td>09&#58;30 &#45; 11&#58;20</td>
+        <td>10&#58;00 &#45; 11&#58;20</td>
         <td>Committees in session</td>
       </tr>
       <tr>
@@ -81,24 +81,28 @@
         <td>Break in Cantina</td>
       </tr>
       <tr>
-        <td>11&#58;40 &#45; 13&#58;30</td>
+        <td>11&#58;40 &#45; 13&#58;00</td>
         <td>Committees in session</td>
       </tr>
       <tr>
-        <td>13&#58;30 &#45; 14&#58;10</td>
+        <td>13&#58;00 &#45; 13&#58;40</td>
         <td>Lunch in Cantina</td>
       </tr>
       <tr>
-        <td>14&#58;10 &#45; 15&#58;45</td>
+        <td>13&#58;40 &#45; 15&#58;10</td>
         <td>Committees in session</td>
       </tr>
       <tr>
-        <td>16&#58;15 &#45; 20&#58;30</td>
-        <td>Social evening&#47; party &#40;Swimming pool&#47; Chiringuito&#47; Theatre&#41;</td>
+        <td>15&#58;20 &#45; 17&#58;00</td>
+        <td>Security Council in session; General Assembly in Cantina</td>
+      </tr>
+      <tr>
+        <td>17&#58;00 &#45; 23&#58;00</td>
+        <td class="font-italic">Social evening & Sotogrande beach party &#40;details to be confirmed&#41;</td>
       </tr>
     </table>
 
-    <h3>Sunday</h3>
+    <h3>Sunday 29 September</h3>
     <table>
       <col width="130">
       <tr class="highlight">
@@ -106,15 +110,15 @@
         <th>Event</th>
       </tr>
       <tr>
-        <td>11&#58;00 &#45; 13&#58;40</td>
-        <td>General Assembly in P21</td>
+        <td>10&#58;00 &#45; 13&#58;00</td>
+        <td>Security Council in session, General Assembly in Cantina &#40;with breaks&#41;</td>
       </tr>
       <tr>
-        <td>13&#58;40 &#45; 14&#58;15</td>
+        <td>13&#58;00 &#45; 13&#58;40</td>
         <td>Lunch in Cantina</td>
       </tr>
       <tr>
-        <td>14&#58;15 &#45; 15&#58;15</td>
+        <td>14&#58;00 &#45; 14&#58;30</td>
         <td>Closing Ceremony in Theatre</td>
       </tr>
     </table>

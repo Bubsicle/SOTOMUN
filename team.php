@@ -1,6 +1,6 @@
 <?php $page = "Team";?>
 <?php include("inc/nav.php")?>
-<div class="container">
+<!-- <div class="container">
   <div class="card-deck mt-4">
   <div class="card">
     <img class="card-img-top" src="assets/team/alexandraeleferenko.jpg" alt="Picture of Alexandra Eleferenko">
@@ -124,5 +124,5 @@
     </div>
   </div>
   </div>
-</div>
+</div> -->
 <?php include("inc/footer.php")?>

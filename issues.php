@@ -1,26 +1,50 @@
 <?php $page = "Committees and Issues";?>
 <?php include("inc/nav.php")?>
 <div class="main-nobg">
-  <div class="container">
-    <h2>Committees &amp; Issues</h2>
-    <h3>Disarmament and International Security Committee &#40;DISEC&#41;</h3>
+  <div class="container mt-5 mb-5">
+    <h1 class="mb-4">Committees & Issues</h1>
+    <h3 class="mt-5">Security Council &#40;SC&#41;</h3>
     <ul>
-      <li><a href="https://drive.google.com/open?id=14gn2S03y8eB9ASTZFa31bDQzGgZvwqaH" target="_blank">Cyber Security and Protecting against Cyber Warfare</a></li>
-      <li><a href="https://drive.google.com/open?id=1JJLX5zN4srEPhnhlFUzU9H-gXycBa5IB" target="_blank">Measures to Strengthen International Counter-Terrorism Efforts</a></li>
-      <li><a href="https://drive.google.com/open?id=1akKDP4AkIoqIyhKdAqvdUCFyK6XyPQnb" target="_blank">Combating the Illicit Trade in Small Arms and Light Weapons</a></li>
+      <li>What measures can be taken to reduce terrorist activities and the factors leading towards the increasing proliferation of terrorism, while protecting national sovereignty and integrating national intelligence agencies? </li>
+
+      <li>What measures can be taken by the international community to stabilize the tension between Israel and Palestine and decrease the loss of life? </li>
+
+      <li>What measures can be taken by the international community to resolve the Yemen Crisis and bring order to the affected regions; moreover, what pathways can be established to provide aid and support to legitimate governments?</li>
     </ul>
-    <h3>Commission on the Status of Women &#40;CSW&#41;</h3>
+
+    <h3 class="mt-5">General Assembly First Committee &#40;GA1 - DISEC&#41;</h3>
     <ul>
-      <li><a href="https://drive.google.com/open?id=1gQ_ErkrhXjjNUj5TFlcwHfmrheHFTfD9" target="_blank">Promoting the Involvement of Women and Youth in Government</a></li>
-      <li><a href="https://drive.google.com/open?id=1h0MwXj5H0QGFc6WcKjYerXYmjyAxRWjM" target="_blank">Combating Violence against Women Migrant Workers</a></li>
-      <li><a href="https://drive.google.com/open?id=1ilXPrK5ZdDL0YYaXFng5DjMo_SN0mi5B" target="_blank">Empowering Women and Girls in Rural Contexts</a></li>
+      <li>The question of counterterrorism measures in in the Sahel region. </li>
+
+      <li>The question of creating a greater global response to the threat posed by cyber warfare.</li>
+
+      <li>The question of establishing safety regulations during nuclear demilitarization of pertinent installations within economically unstable countries.</li>
     </ul>
-      <h3>United Nations Development Programme &#40;UNDP&#41;</h3>
+
+    <h3  class="mt-5">World Health Organisation &#40;WHO&#41;</h3>
+    <ul> 
+      <li>The question of maintaining herd immunity, while respecting individual rights in any form and national sovereignty, in the face of preventable diseases endangering the lives of citizens.</li>
+
+      <li>The question of securing food production and a clean water supply for individuals without adequate access due to strife, and establishing plans to maintain sustainable projects pertinent to this endeavour.</li>
+
+      <li>The question of promoting suicide prevention and reducing incidences of suicide in nations with unhealthy work and education ethics, emphasizing the importance of mental health.</li>
+    </ul>
+
+    <h3 class="mt-5">Economic & Social Council  &#40;ECOSOC&#41;</h3>
     <ul>
-      <li><a href="https://drive.google.com/open?id=1ELhyahUN1Si5hVdrDU0yVZ-f0FVH6ypk" target="_blank">The Role of Access to Clean Water in Eradicating Poverty</a></li>
-      <li><a href="https://drive.google.com/open?id=1Uwu_xnh3xVCXGEsTm-_jhlCEA-EeZfMw" target="_blank">Sustainable Cities and Transportation: A Bridge to Development</a></li>
-      <li><a href="https://drive.google.com/open?id=1RjLWu2d2YxCYLNETDy8FrxL67iyky42s" target="_blank">Promoting Resilient Communities</a></li>
+      <li>The question of the provision of sustainable minimum wages for primary labour workers in metropolitan cities.</li>
+
+      <li>The question of what tactics should be adopted to manage the expanding middle class in Asian nations.</li>
+
+      <li>The question of how conflicts in sub-Saharan Africa, primarily in a struggle for resources, are affecting the world economy and how to overcome the current human rights violations.</li>
     </ul>
+
   </div>
 </div>
+<div class="main">
+  <div class="container">
+    <p class="pt-5">Note. It will be possible to add a further committee (UNHCR) if the number of applicants exceeds expectations. Also, although most of these are not traditional GA committees, all delegates, except Security Council, will come together for a General Assembly/ plenary session on Sunday morning.</p>
+  </div>
+</div>
+
 <?php include("inc/footer.php")?>

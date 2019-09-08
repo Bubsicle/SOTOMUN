@@ -5,7 +5,7 @@
       <h2>Rules of Procedure</h2>
       <p>We hope our Delegates Handbook will act as a simple yet detailed guide for first timers and a useful reminder to more experienced delegates.</p>
       <div class="download">
-        <a href="assets/Sotomun_delegate_handbook.pdf" download>SotoMUN Delegate Handbook<i class="pl-2 fas fa-download"></i></a>
+        <a href="assets/sotomun-delegate-handbook-2019.pdf" download>SotoMUN Delegate Handbook<i class="pl-2 fas fa-download"></i></a>
       </div>
     </div>
   </div>
