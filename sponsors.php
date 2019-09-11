@@ -5,8 +5,8 @@
     <h2>Sponsors</h2>
     <div class="row">
       <div class="col-lg-12 col-md-12">
-        <img class="my-3 monticello" src="assets/Monticello logo.png" class="img-fluid" alt="Monticello Logo">
-        <h3>Monticello</h3>
+        <a href="http://monticellopartnership.com/"><img class="my-3 monticello" src="assets/Monticello logo.png" class="img-fluid" alt="Monticello Logo"></a>
+        <h3><a href="http://monticellopartnership.com/">Monticello</a></h3>
       </div>
 
       <div class="col-lg-12 col-md-12">
