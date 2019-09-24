@@ -20,7 +20,7 @@
 
 <div class="card-deck mt-4">
 <div class="card">
-  <img class="card-img-top" src="https://dummyimage.com/2585x3885/191919/fff.jpg" alt="Picture of Yannick Luib">
+  <img class="card-img-top" src="assets/team/Yannick.jpg" alt="Picture of Yannick Luib">
   <div class="card-body">
     <h5 class="card-title">Yannick Luib</h5>
     <p class="card-text">Committee Chair DISEC</p>
@@ -40,10 +40,6 @@
     <p class="card-text">Committee Chair WHO</p>
   </div>
 </div>
-</div>
-
-<div class="card-deck mt-4">
-
 <div class="card">
   <img class="card-img-top" src="assets/team/Emeka.jpg" alt="Picture of Emeka Okonkwo">
   <div class="card-body">
@@ -51,13 +47,10 @@
     <p class="card-text">Committee Chair WHO</p>
   </div>
 </div>
-<div class="card">
-  <img class="card-img-top" src="assets/team/Nadia.jpg" alt="Picture of Nadia Nguru">
-  <div class="card-body">
-    <h5 class="card-title">Nadia Nguru</h5>
-    <p class="card-text">Committee Chair ECOSOC</p>
-  </div>
+
 </div>
+
+<div class="card-deck mt-4">
 <div class="card">
   <img class="card-img-top" src="assets/team/Marija.jpg" alt="Picture of Marija Segale">
   <div class="card-body">
@@ -65,11 +58,8 @@
     <p class="card-text">Committee Chair ECOSOC</p>
   </div>
 </div>
-</div>
-
-<div class="card-deck mt-4">
   <div class="card">
-  <img class="card-img-top" src="https://dummyimage.com/2585x3885/191919/fff.jpg" alt="Picture of Felix Petersen">
+  <img class="card-img-top" src="assets/team/Felix.jpg" alt="Picture of Felix Petersen">
   <div class="card-body">
     <h5 class="card-title">Felix Petersen</h5>
     <p class="card-text">Assistant Chair Plenary</p>
@@ -101,7 +91,7 @@
       </div>
     </div>
     <div class="card">
-      <img class="card-img-top" src="https://dummyimage.com/2585x3885/191919/fff.jpg" alt="Picture of Maite Garcia">
+      <img class="card-img-top" src="assets/team/María.jpg" alt="Picture of Maite Garcia">
       <div class="card-body">
         <h5 class="card-title">Maite Garcia</h5>
         <p class="card-text">Information desk & Approval Panel</p>

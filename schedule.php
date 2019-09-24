@@ -94,11 +94,11 @@
       </tr>
       <tr>
         <td>15&#58;20 &#45; 17&#58;00</td>
-        <td>Security Council in session; General Assembly in Cantina</td>
+        <td>General Assembly in Cantina</td>
       </tr>
       <tr>
-        <td>17&#58;00 &#45; 23&#58;00</td>
-        <td class="font-italic">Social evening & Sotogrande beach party &#40;details to be confirmed&#41;</td>
+        <td>20&#58;00 &#45; 22&#58;00</td>
+        <td class="font-italic">Informal social/ cultural evening &#40;optional&#41; in <a href="https://mercadosanluis.es/">Mercado San Luis, Estepona</a></td>
       </tr>
     </table>
 
@@ -110,10 +110,10 @@
         <th>Event</th>
       </tr>
       <tr>
+            <tr>
         <td>10&#58;00 &#45; 13&#58;00</td>
-        <td>Security Council in session, General Assembly in Cantina &#40;with breaks&#41;</td>
+        <td>General Assembly in Cantina</td>
       </tr>
-      <tr>
         <td>13&#58;00 &#45; 13&#58;40</td>
         <td>Lunch in Cantina</td>
       </tr>
